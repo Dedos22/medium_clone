@@ -1,0 +1,27 @@
+.logo{
+	width: 170px;
+}
+.navbarr{
+	background-color: #ffc017;
+	border-bottom: 1px solid rgba(41,41,41,1);
+	
+}
+.border-bottom-dark{
+	border-bottom: 1px solid rgba(41,41,41,1)
+}
+.bg-yellow{
+	background-color: #ffc017;
+	padding-top: 30px;
+}
+
+h1{
+    color: black;
+}
+a{
+	color: black;
+}
+
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;1,100;1,900&display=swap'); }
+}
+}
+}
